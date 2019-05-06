@@ -2,6 +2,9 @@
 aclocal.m4
 autom4te.cache
 build-aux
+cmake_install.cmake
+CMakeCache.txt
+CMakeFiles
 configure
 config.log
 config.status
